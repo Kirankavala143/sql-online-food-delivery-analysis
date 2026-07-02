@@ -1,1 +1,11 @@
 
+Q1_Restaurant_Size_Category.csv
+Q2_Customer_Order_Ranking.csv
+Q3_Top3_Restaurants_By_Revenue.csv
+Q4_Last7Days_Orders.csv
+Q5_Customer_Spending.csv
+Q6_Customer_Signup_Category.csv
+Q7_Customers_With_Maximum_Orders.csv
+Q8_Menu_Items_Above_Average.csv
+Q9_Restaurants_Above_Average_Menu_Size.csv
+Q10_Monthly_Order_Summary.csv
